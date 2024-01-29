@@ -16,3 +16,4 @@ polish
 brazilian_portuguese
 french
 ```
+The mod doesn't support distinguishing between genders for these specific strings (technical limitation related to how we create conditions at build time), so a gender-neutral string is preferred.
