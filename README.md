@@ -1,5 +1,5 @@
 # ASAStrings
-Translations for the [AlwaysShowApprovals Baldur's Gate 3 mod](https://www.nexusmods.com/baldursgate3/mods/4675/). Pull requests welcome for the languages:
+Translations for the [AlwaysShowApprovals Baldur's Gate 3 mod](https://www.nexusmods.com/baldursgate3/mods/4675/). Pull requests and issues welcome with translations for the languages:
 
 ```
 spanish
