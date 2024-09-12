@@ -1,6 +1,7 @@
 # ASAStrings
-Translations for the [AlwaysShowApprovals Baldur's Gate 3 mod](https://mod.io/g/baldursgate3/m/alwaysshowapprovals). Full and partial translation suggestions are welcome. List of completed and incomplete languages:
+Translations for the [AlwaysShowApprovals Baldur's Gate 3 mod](https://mod.io/g/baldursgate3/m/alwaysshowapprovals). Full and partial translation suggestions are welcome. 
 
+Translation Status ([x] is completed):
 - [x] Spanish
 - [ ] Russian
 - [x] Japanese
